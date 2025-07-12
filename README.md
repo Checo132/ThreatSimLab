@@ -28,7 +28,7 @@ This tool explores a wide array of core cybersecurity topics, such as phishing, 
 
 ---
 
-## How to Use CyberSecEdu on Kali Linux
+## How to Use ThreatSimLab on Kali Linux
 
 **1. Prepare Kali Linux:**
 
@@ -51,7 +51,7 @@ sudo apt install python3
 - Create a new file:
 
 ```bash
-nano cybersecedu.py
+nano ThreatSimLab.py
 ```
 
 - Paste the entire script above into the editor.
@@ -60,13 +60,13 @@ nano cybersecedu.py
 ---
 
 3. Make the Script Executable (Optional):
-chmod +x cybersecedu.py
+chmod +x ThreatSimLab.py
 
 4. Run the Tool:
-python3 cybersecedu.py
+python3 ThreatSimLab.py
 
 Or if made executable:
-./cybersecedu.py
+./ThreatSimLab.py
 
 5. Navigate the Menu:
 Enter the number corresponding to the topic you want to learn.
