@@ -59,21 +59,33 @@ nano ThreatSimLab.py
 
 ---
 
-3. Make the Script Executable (Optional):
+**3. Make the Script Executable (Optional):**
+
+```bash
 chmod +x ThreatSimLab.py
+```
+---
 
-4. Run the Tool:
+**4. Run the Tool:**
+
+```bash
 python3 ThreatSimLab.py
-
+```
 Or if made executable:
+
+```bash
 ./ThreatSimLab.py
+```
 
-5. Navigate the Menu:
-Enter the number corresponding to the topic you want to learn.
+---
 
-Read the explanations, and understand the mitigation strategies.
+**5. Navigate the Menu:**
 
-Repeat for other modules or exit when done.
+- Enter the number corresponding to the topic you want to learn.
+- Read the explanations, and understand the mitigation strategies.
+- Repeat for other modules or exit when done.
+
+---
 
 
 
